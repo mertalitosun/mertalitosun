@@ -3,7 +3,7 @@
 🎓 Pamukkale Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.  
 💻 Web geliştirme alanında full-stack projeler geliştiriyorum.  
 🚀 Node.js ve Express.js ile backend geliştirme yapıyorum.  
-🌱 Yeni teknolojileri öğrenmeye ve üretmeye devam ediyorum.
+🌱 Yeni teknolojileri öğrenmeye ve üretmeye devam ediyorum(PHP).
 
 ---
 
